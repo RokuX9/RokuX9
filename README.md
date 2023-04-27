@@ -29,7 +29,7 @@ When I'm not immersed in the digital realm, I love to get outdoors and challenge
 
 I take great pride in my work and have contributed to a variety of projects that demonstrate my technical skills and creativity. Here are some highlights:
 
-1. [Around the World - Single Page Social App](https://around-dean.students.nomoredomainssbs.ru/): This project is a single-page social app that requires users to log in or register to access the home page. Users can view cards created by all users, edit their profile information, upload profile pictures, and add new cards to the home page. Users can also click on cards to view images in a larger screen and delete their own cards. Technologies used: React, Express, Node.js, MongoDB.
+1. [Around the World - Single Page Social App](https://www.around-dean.gotroot.pw/): This project is a single-page social app that requires users to log in or register to access the home page. Users can view cards created by all users, edit their profile information, upload profile pictures, and add new cards to the home page. Users can also click on cards to view images in a larger screen and delete their own cards. Technologies used: React, Express, Node.js, MongoDB.
 
 2. [Dean News - News Site with Home and User Page](https://www.dean-news.students.nomoredomainssbs.ru/): This project is a news site with a home page where users can search for news articles, and a user page where logged-in users can view saved articles. Users can delete saved articles from anywhere in the app. Technologies used: React, Express, Node.js, MongoDB.
 

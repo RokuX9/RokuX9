@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Dean Nash, also known as RokuX9, a Fullstack Developer with a Passion for Gaming 🎮, Snowboarding 🏂, and Rock Climbing 🧗‍♂️!
+# Hi there! 👋 I'm Dean, a Fullstack Developer with a Passion for Gaming 🎮, Snowboarding 🏂, and Rock Climbing 🧗‍♂️!
 
 ## About Me
 
@@ -29,15 +29,13 @@ When I'm not immersed in the digital realm, I love to get outdoors and challenge
 
 I take great pride in my work and have contributed to a variety of projects that demonstrate my technical skills and creativity. Here are some highlights:
 
-1. [Around the World - Single Page Social App](https://www.around-dean.gotroot.pw/): This project is a single-page social app that requires users to log in or register to access the home page. Users can view cards created by all users, edit their profile information, upload profile pictures, and add new cards to the home page. Users can also click on cards to view images in a larger screen and delete their own cards. Technologies used: React, Express, Node.js, MongoDB.
+1. [Around the World - Single Page Social App](https://around.rokux9.com/): This project is a single-page social app that requires users to log in or register to access the home page. Users can view cards created by all users, edit their profile information, upload profile pictures, and add new cards to the home page. Users can also click on cards to view images in a larger screen and delete their own cards. Technologies used: React, Express, Node.js, MongoDB.
 
-2. [Dean News - News Site with Home and User Page](https://www.dean-news.students.nomoredomainssbs.ru/): This project is a news site with a home page where users can search for news articles, and a user page where logged-in users can view saved articles. Users can delete saved articles from anywhere in the app. Technologies used: React, Express, Node.js, MongoDB.
-
-3. [HighChat - Communications Application](https://github.com/RokuX9/highchat): This project is currently in progress and is a communications application featuring text, voice, and video chat, as well as peer-to-peer file transferring. It will run on web, iOS, and Android platforms and uses technologies such as React Native, React Native Paper, Socket.IO, Mediasoup, and Firebase services (database, real-time database, and authentication).
+2. [Dean News - News Site with Home and User Page](https://news.rokux9.com/): This project is a news site with a home page where users can search for news articles, and a user page where logged-in users can view saved articles. Users can delete saved articles from anywhere in the app. Technologies used: React, Express, Node.js, MongoDB.
 
 ## Let's Connect! 🤝
 
-I'm always open to collaborating on new projects, discussing the latest gaming trends, or exchanging snowboarding and rock climbing tips. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/dean-nash/) or [Email](mailto:shibta007@gmail.com). Let's create some amazing experiences together! 🚀
+I'm always open to collaborating on new projects, discussing the latest gaming trends, or exchanging snowboarding and rock climbing tips. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/dean-nash/) or [Email](mailto:rokux9@gmail.com). Let's create some amazing experiences together! 🚀
 
 ## Thanks for Visiting! 🎉
 

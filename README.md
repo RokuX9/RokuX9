@@ -1,42 +1,54 @@
-# Hi there! 👋 I'm Dean, a Fullstack Developer with a Passion for Gaming 🎮, Snowboarding 🏂, and Rock Climbing 🧗‍♂️!
+# Hi, I'm Dean 👋
 
-## About Me
+Full-stack developer and technical support engineer based in Montreal, Canada. I build responsive web applications, real-time communication tools, and interactive 3D spatial experiences.
 
-I'm a highly skilled and motivated Fullstack Developer who loves to create interactive and engaging web applications. With a solid foundation in both frontend and backend technologies, I am constantly pushing the boundaries of what's possible in the digital world.
+I focus on clean architectural design, low-latency protocols, and deploying reliable containerized infrastructure. Outside of software, I'm usually out snowboarding, rock climbing, or experimenting with game mechanics and hardware.
 
-## Skills and Technologies 💻
+---
 
-- Frontend: React, React Native, HTML5, CSS3, JavaScript, jQuery
-- Backend: Node.js, Express, MongoDB, Firebase
-- Database: MongoDB, Firebase Realtime Database
-- Communication: Socket.IO, Mediasoup
-- UI/UX: Material-UI, Bootstrap, React Native Paper
-- Version Control: Git, GitHub
-- Deployment: GCP, Azure
-- Testing: Jest
+## 🏛️ Featured Project: Interactive 3D Portfolio
 
-## Gaming Enthusiast 🎮
+An interactive 3D virtual museum rendered with Three.js and WebGL. Instead of a traditional scrollable resume, visitors navigate a series of dedicated rooms showcasing my background, technical toolkits, and project galleries in real time.
 
-As a lifelong gamer, I've always been fascinated by the endless possibilities that coding brings to the world of gaming. From building immersive gameplay experiences to optimizing performance, I thrive on the challenges that come with creating cutting-edge gaming applications.
+* **Technologies:** Three.js, WebGL, JavaScript
+* **Links:** [Live Experience](https://portfolio.rokux9.com) · [GitHub Repository](https://github.com/RokuX9/portfolio)
 
-In my free time, you'll find me exploring new game engines, experimenting with different game mechanics, or battling it out in my favorite multiplayer games. I'm always on the lookout for new ways to level up my skills and stay up-to-date with the latest trends in gaming technology.
+---
 
-## Thrill Seeker 🏂🧗‍♂️
+## 🛠️ Key Projects
 
-When I'm not immersed in the digital realm, I love to get outdoors and challenge myself with physical activities. Snowboarding down the slopes or scaling the face of a rock wall gives me an adrenaline rush like no other. Just like in coding, I enjoy pushing my limits, learning new techniques, and conquering new heights.
+### 💬 [Quick Chat](https://quickchat.rokux9.com)
+A decentralized, peer-to-peer communication tool designed for direct text chat and file sharing with zero intermediary servers.
+* **Highlights:** WebRTC DataChannels for low-latency P2P transmission, WebSockets signaling, and chunked browser-to-browser file transfers.
+* **Stack:** WebRTC, WebSockets, Node.js, React
+* **Code:** [GitHub](https://github.com/RokuX9/QuickChat)
 
-## Projects and Contributions 🚀
+### 🌍 [Around The World](https://around.rokux9.com)
+A responsive social photo-sharing platform centered around community discovery and media interaction.
+* **Highlights:** Token-based authentication, user photo publishing with custom titles, and interactive post-liking functionality.
+* **Stack:** React, Node.js, Express.js, REST API
+* **Code:** [GitHub](https://github.com/RokuX9/react-around-api-full)
 
-I take great pride in my work and have contributed to a variety of projects that demonstrate my technical skills and creativity. Here are some highlights:
+### 📰 [News Explorer](https://news.rokux9.com)
+A news aggregation application enabling users to query global feeds via third-party APIs and curate reading lists.
+* **Highlights:** Dynamic search filtering, category tagging, and persistent user bookmarks.
+* **Stack:** React, Express.js, Node.js, REST APIs
+* **Code:** [Frontend](https://github.com/RokuX9/news-explorer-frontend) · [Backend](https://github.com/RokuX9/news-explorer-api)
 
-1. [Around the World - Single Page Social App](https://around.rokux9.com/): This project is a single-page social app that requires users to log in or register to access the home page. Users can view cards created by all users, edit their profile information, upload profile pictures, and add new cards to the home page. Users can also click on cards to view images in a larger screen and delete their own cards. Technologies used: React, Express, Node.js, MongoDB.
+---
 
-2. [Dean News - News Site with Home and User Page](https://news.rokux9.com/): This project is a news site with a home page where users can search for news articles, and a user page where logged-in users can view saved articles. Users can delete saved articles from anywhere in the app. Technologies used: React, Express, Node.js, MongoDB.
+## 💻 Tech Stack & Infrastructure
 
-## Let's Connect! 🤝
+* **Languages & Core:** JavaScript, Python, HTML5, CSS3
+* **Frontend:** React, Three.js, WebGL
+* **Backend & Real-Time:** Node.js, Express.js, WebSockets, WebRTC, SIP, GraphQL, REST APIs
+* **Databases:** PostgreSQL / SQL, MongoDB, Firestore
+* **Cloud & DevOps:** AWS, GCP, Azure, Docker, Kubernetes, Linux, Nginx
 
-I'm always open to collaborating on new projects, discussing the latest gaming trends, or exchanging snowboarding and rock climbing tips. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/dean-nash/) or [Email](mailto:rokux9@gmail.com). Let's create some amazing experiences together! 🚀
+---
 
-## Thanks for Visiting! 🎉
+## 📬 Connect
 
-Thanks for checking out my profile! Don't forget to star ⭐️ my repositories if you find them interesting. Keep an eye on my GitHub for new exciting projects coming soon. Let's connect and make the digital world a more thrilling and entertaining place! 🎮🏂🧗‍♂️
+* **Portfolio:** [portfolio.rokux9.com](https://portfolio.rokux9.com)
+* **LinkedIn:** [linkedin.com/in/dean-nash](https://www.linkedin.com/in/dean-nash/)
+* **Email:** [rokux9@gmail.com](mailto:rokux9@gmail.com)

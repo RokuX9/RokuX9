@@ -1,8 +1,8 @@
 # Hi, I'm Dean 👋
 
-Full-stack developer and technical support engineer based in Montreal, Canada. I build responsive web applications, real-time communication tools, and interactive 3D spatial experiences.
+Full-stack developer and technical support engineer based in Montreal, Canada.
 
-I focus on clean architectural design, low-latency protocols, and deploying reliable containerized infrastructure. Outside of software, I'm usually out snowboarding, rock climbing, or experimenting with game mechanics and hardware.
+I focus on clean architectural design, low-latency protocols, deploying reliable containerized infrastructure, and solve a variety of issues. Outside of software, I'm usually out snowboarding, rock climbing, or experimenting with game mechanics and hardware.
 
 ---
 
